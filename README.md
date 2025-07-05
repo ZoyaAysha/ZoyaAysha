@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Ayisha
-- 👀 I’m interested in data analytics,Power BI dashboards, and storytelling with data
-- 🌱 I’m currently learning advanced DAX, Python for data analysis, and specialising in BI and story telling.
-- ⚡ Fun fact: I love turning messy data into beautiful, interactive dashboards 💖
+👋 Hi, I’m Ayisha
+
+👀 I’m passionate about data analytics, data visualization, and storytelling with data
+
+🌱 Currently learning advanced DAX, Python for data analysis, and diving deeper into business intelligence & data storytelling
+
+⚡ Fun fact: I love transforming messy data into beautiful, interactive dashboards 💖
 
 <!---
 ZoyaAysha/ZoyaAysha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
